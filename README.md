@@ -157,23 +157,6 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="2dust--v2rayn"></div>
-
-### 2Dust--V2rayN
-
-🔗 [source](https://github.com/2Dust/V2rayN) – [<code><small>7.22.2</small></code>](https://github.com/2Dust/V2rayN/releases/tag/7.22.2)
-
-| File | Size | Download |
-|------|------|----------|
-| `v2rayN-linux-64.deb` | 76.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/2Dust/V2rayN/v2rayN-linux-64.deb) |
-| `v2rayN-linux-arm64.deb` | 68.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/2Dust/V2rayN/v2rayN-linux-arm64.deb) |
-| `v2rayN-linux-loong64.deb` | 64.5 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/2Dust/V2rayN/v2rayN-linux-loong64.deb) |
-| `v2rayN-linux-rhel-64.rpm` | 84.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/2Dust/V2rayN/v2rayN-linux-rhel-64.rpm) |
-| `v2rayN-linux-rhel-arm64.rpm` | 79.5 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/2Dust/V2rayN/v2rayN-linux-rhel-arm64.rpm) |
-| `v2rayN-linux-rhel-riscv64.rpm` | 78.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/2Dust/V2rayN/v2rayN-linux-rhel-riscv64.rpm) |
-
----
-
 <div id="matsuridayo--nekoray"></div>
 
 ### MatsuriDayo--nekoray
