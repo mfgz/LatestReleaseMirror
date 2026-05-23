@@ -1,7 +1,7 @@
 # See 'repos.txt.example' file
 therealaleph/MasterHttpRelayVPN-RUST
 yt-dlp/yt-dlp
-2Dust/V2rayN
+2dust/v2rayN|v2rayN-windows-64.zip|v2rayN-windows-64-desktop.zip
 MatsuriDayo/nekoray
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
