@@ -157,78 +157,15 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="matsuridayo--nekoray"></div>
+<div id="nevcairiel--lavfilters"></div>
 
-### MatsuriDayo--nekoray
+### Nevcairiel--LAVFilters
 
-🔗 [source](https://github.com/MatsuriDayo/nekoray) – [<code><small>4.0.1</small></code>](https://github.com/MatsuriDayo/nekoray/releases/tag/4.0.1)
-
-| File | Size | Download |
-|------|------|----------|
-| `nekoray-4.0.1-2024-12-12-debian-x64.deb` | 12.5 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/MatsuriDayo/nekoray/nekoray-4.0.1-2024-12-12-debian-x64.deb) |
-| `nekoray-4.0.1-2024-12-12-linux-x64.AppImage` | 42.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/MatsuriDayo/nekoray/nekoray-4.0.1-2024-12-12-linux-x64.AppImage) |
-| `nekoray-4.0.1-2024-12-12-linux64.zip` | 43.5 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/MatsuriDayo/nekoray/nekoray-4.0.1-2024-12-12-linux64.zip) |
-| `nekoray-4.0.1-2024-12-12-windows64.zip` | 39.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/MatsuriDayo/nekoray/nekoray-4.0.1-2024-12-12-windows64.zip) |
-
----
-
-<div id="therealaleph--masterhttprelayvpn-rust"></div>
-
-### therealaleph--MasterHttpRelayVPN-RUST
-
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.34</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.34)
+🔗 [source](https://github.com/Nevcairiel/LAVFilters) – [<code><small>0.81</small></code>](https://github.com/Nevcairiel/LAVFilters/releases/tag/0.81)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.34.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.34.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.34.apk` | 17.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.34.apk) |
-| `mhrv-rs-android-universal-v1.9.34.apk` | 45.4 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.34.apk) |
-| `mhrv-rs-android-x86-v1.9.34.apk` | 20.6 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.34.apk) |
-| `mhrv-rs-android-x86_64-v1.9.34.apk` | 20.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.34.apk) |
-| `mhrv-rs-linux-amd64.tar.gz` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
-| `mhrv-rs-linux-arm64.tar.gz` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
-| `mhrv-rs-linux-musl-amd64.tar.gz` | 2.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
-| `mhrv-rs-linux-musl-arm64.tar.gz` | 2.6 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
-| `mhrv-rs-macos-amd64-app.zip` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
-| `mhrv-rs-macos-amd64.tar.gz` | 8.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
-| `mhrv-rs-macos-arm64-app.zip` | 4.9 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
-| `mhrv-rs-macos-arm64.tar.gz` | 7.2 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
-| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
-| `mhrv-rs-raspbian-armhf.tar.gz` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
-| `mhrv-rs-windows-amd64.zip` | 8.5 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
-
----
-
-<div id="yt-dlp--yt-dlp"></div>
-
-### yt-dlp--yt-dlp
-
-🔗 [source](https://github.com/yt-dlp/yt-dlp) – [<code><small>2026.03.17</small></code>](https://github.com/yt-dlp/yt-dlp/releases/tag/2026.03.17)
-
-| File | Size | Download |
-|------|------|----------|
-| `SHA2-256SUMS` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/SHA2-256SUMS) |
-| `SHA2-256SUMS.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/SHA2-256SUMS.sig) |
-| `SHA2-512SUMS` | 2 KB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/SHA2-512SUMS) |
-| `SHA2-512SUMS.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/SHA2-512SUMS.sig) |
-| `_update_spec` | 2 KB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/_update_spec) |
-| `yt-dlp` | 3.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp) |
-| `yt-dlp.exe` | 17.5 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp.exe) |
-| `yt-dlp.tar.gz` | 5.9 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp.tar.gz) |
-| `yt-dlp_arm64.exe` | 21.4 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp_arm64.exe) |
-| `yt-dlp_linux` | 34.4 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp_linux) |
-| `yt-dlp_linux.zip` | 34.4 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp_linux.zip) |
-| `yt-dlp_linux_aarch64` | 34.2 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp_linux_aarch64) |
-| `yt-dlp_linux_aarch64.zip` | 34.2 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp_linux_aarch64.zip) |
-| `yt-dlp_linux_armv7l.zip` | 33.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp_linux_armv7l.zip) |
-| `yt-dlp_macos` | 35.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp_macos) |
-| `yt-dlp_macos.zip` | 61.3 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp_macos.zip) |
-| `yt-dlp_musllinux` | 35.6 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp_musllinux) |
-| `yt-dlp_musllinux.zip` | 36.3 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp_musllinux.zip) |
-| `yt-dlp_musllinux_aarch64` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp_musllinux_aarch64) |
-| `yt-dlp_musllinux_aarch64.zip` | 27.2 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp_musllinux_aarch64.zip) |
-| `yt-dlp_win.zip` | 17.4 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp_win.zip) |
-| `yt-dlp_win_arm64.zip` | 21.3 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp_win_arm64.zip) |
-| `yt-dlp_win_x86.zip` | 13.6 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp_win_x86.zip) |
-| `yt-dlp_x86.exe` | 13.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/yt-dlp/yt-dlp/yt-dlp_x86.exe) |
+| `LAVFilters-0.81-Installer.exe` | 15.4 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/Nevcairiel/LAVFilters/LAVFilters-0.81-Installer.exe) |
+| `LAVFilters-0.81-x64.zip` | 11.3 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/Nevcairiel/LAVFilters/LAVFilters-0.81-x64.zip) |
+| `LAVFilters-0.81-x86.zip` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mfgz/LatestReleaseMirror/main/releases/Nevcairiel/LAVFilters/LAVFilters-0.81-x86.zip) |
 <!-- RELEASES_END -->
